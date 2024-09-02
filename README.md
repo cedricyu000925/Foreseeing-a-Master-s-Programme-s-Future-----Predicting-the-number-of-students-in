@@ -37,6 +37,12 @@ In this project, the analysis focused on understanding the factors influencing s
 
 Additionally, the predictions derived from the analysis suggest a shift in the gender ratio of admitted students. It is anticipated that more female students will be admitted in the coming years, while the number of male students is expected to decrease, which in the future the programme may admit little to almost no male student. This trend may reflect broader societal changes and shifts in the educational landscape, particularly within the context of the educational sector from which the students primarily originate.
 
+# Visualization
+
+![Visualization](https://github.com/user-attachments/assets/1d10a08e-7835-4e10-8d16-23f606be60c9)
+
+I made a visualization of the abovementioned prediction results using Google Looker, assuming if any Faculty staff or the Programme Coordinator are interested in the prediction results. The self-explanatory visualization was created using intuitive tables and bar charts, with the upper half being the admission statistics in the past admissions, and the lower half the predicted admission results in the future.
+
 # Content
 The data in dataframe CSV file was obtained at my full-time deskjob. The CSV file contains of the cohort a particular student was in, with the number srepresenting the academic year there were in, and FT (full-time) or PT (part-time) as their study mode. 
 The last column contains the gender of each student, either in M (male) or female (F).

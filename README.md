@@ -21,6 +21,16 @@ Every year, the Programme Office was required to submit an admission summary tha
 
 In 2023, the Faculty started to impose an admission quota, to demand our programme to admit a certain nmumber of students, which that quota actually doubles the amount of students we have admitted in the previous admission exercise. To a certain extent, this had put not only certain pressure in out gatekeeping mechanics of allowing candidates with the best potential into our programme, but also the fact that we had a hard time allocating enough amount of teachers, tutors and assignment markers to maintain the operational needs of our programme. It would be very beneficial if a prediction model can be successfully developed in order to know as soon as possible how the resources at our hand can be allocated to solve the challenges ahead of us... especially when we do not know the reasons behind these admission quotas  imposed by the Faculty.
 
+# Analysis and Prediction
+![Analysis and Prediction 1](https://github.com/user-attachments/assets/20c694b6-67ec-453a-a798-3b125a06b901)
+
+
+In this project, the analysis focused on understanding the factors influencing student admissions to the programme. Before analysis, I assumed that job vacancy and competitveness within the educational field plays a role in influencing the number of students admitted into the programme.Instead, the primary finding indicates that the admission quotas imposed by the Faculty significantly impact the number of students admitted (the model assumed that the Faculty will also impose admission quota on year 2025). These quotas have almost doubled the previous admission numbers, creating pressure on the programme to accommodate more students while maintaining quality standards.
+
+![Analysis and Prediction 2](https://github.com/user-attachments/assets/f1fe4a48-4720-4f39-b5c8-d3588362a093)
+
+Additionally, the predictions derived from the analysis suggest a shift in the gender ratio of admitted students. It is anticipated that more female students will be admitted in the coming years, while the number of male students is expected to decrease, which in the future the programme may admit little to almost no male student. This trend may reflect broader societal changes and shifts in the educational landscape, particularly within the context of the educational sector from which the students primarily originate.
+
 # Content
 The data in dataframe CSV file was obtained at my full-time deskjob. The CSV file contains of the cohort a particular student was in, with the number srepresenting the academic year there were in, and FT (full-time) or PT (part-time) as their study mode. 
 The last column contains the gender of each student, either in M (male) or female (F).

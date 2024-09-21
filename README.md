@@ -6,7 +6,7 @@
 This is my first data project, which I completed after I finish my data analytics training bootcamp. The goal of this project is to predict the number of students admitted in a Master's degree programme in the next few years from the moment I started this project. 
 I also attempted to predict the ratio of male and female students in the future in the future as well. The Master's Degree Programme is about theories related to linguistics. Students in this programme are mainly from educational sectors, mostly teachers or private English tutors.
 
-You can find an article posted on Medium (https://medium.com/@cedricyu80/forecasting-the-future-of-a-masters-program-predicting-student-admissions-and-gender-trends-940427413961) introducing this project.
+You can find an article posted on Medium introducing this project. (https://medium.com/@cedricyu80/forecasting-the-future-of-a-masters-program-predicting-student-admissions-and-gender-trends-940427413961)
 
 The project has two objectives. I would like to find out:
 
